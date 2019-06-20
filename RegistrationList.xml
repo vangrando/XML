@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RegistrationList>
+	<Student>
+		<FirstName>Elvis</FirstName>
+		<LastName>Presley</LastName>
+		<DOB>1935-01-08</DOB>
+		<Program>Music</Program>
+		<PhotoTaken>True</PhotoTaken>
+	</Student>
+	<Student>
+		<FirstName>Michael</FirstName>
+		<LastName>Jackson</LastName>
+		<DOB>1958-08-29</DOB>
+		<Program>Dance</Program>
+		<PhotoTaken>True</PhotoTaken>
+	</Student>
+	<Student>
+		<FirstName>Amy</FirstName>
+		<LastName>Winehouse</LastName>
+		<DOB>1983-09-14</DOB>
+		<Program>Arts</Program>
+		<PhotoTaken>True</PhotoTaken>
+	</Student>
+</RegistrationList>
